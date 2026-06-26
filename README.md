@@ -5,9 +5,6 @@
 Step into a world of dynamic motion and fluid interactions. A purely fun and wildly creative web experiment.
 
 ## 🚀 Live Website
-Experience the fully interactive website live here: [https://helioos.vercel.app](https://helioos.vercel.app)
-
-## Preview
-![Preview Demo](preview.gif)
+Experience the fully interactive website live here: [Live Demo](https://helioos.vercel.app)
 
 <div align="center"><p>Y7XIFIED</p></div>
