@@ -1,12 +1,23 @@
 {
-  "name": "helios",
-  "version": "1.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "vite": "^5.0.0"
-  }
+	"name": "y7xified-portfolio",
+	"version": "1.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "node server.mjs",
+		"start": "node server.mjs",
+		"check": "node --check dist/script.js",
+		"build": "node build.mjs"
+	},
+	"dependencies": {
+		"@hugeicons/core-free-icons": "^4.4.0",
+		"@hugeicons/react": "^1.1.10",
+		"gsap": "^3.15.1",
+		"html2canvas": "^1.4.1",
+		"motion": "^12.43.0"
+	},
+	"devDependencies": {
+		"esbuild": "^0.25.12",
+		"jsrepo": "^3.8.3"
+	}
 }

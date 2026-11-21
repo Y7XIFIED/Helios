@@ -1,6 +1,5 @@
 {
   "name": "helioos",
-  "framework": "vite",
-  "buildCommand": "npm run build",
+  "cleanUrls": true,
   "outputDirectory": "dist"
 }
